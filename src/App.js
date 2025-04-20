@@ -8,7 +8,7 @@ function App() {
       />
       <h2>About Me</h2>
       <p>Your biography text goes here. Include information about yourself, your interests, and your skills.</p>
-      <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/tinamanga" target="_blank" rel="noopener noreferrer">
         GitHub
       </a>
       <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
